@@ -14,13 +14,23 @@ button {
   background: rgb(193, 192, 194);
   border: 4px solid gray;
 }
+h1 {
+  margin: 0%;
+  text-transform: uppercase;
+  color: rgb(49, 48, 48);
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
 button:active {
   background-color: grey;
 }
+
 input {
   border-radius: 15px;
   font-size: 33px;
   width: 297px;
+  margin-bottom: 10px;
   border: 5px solid rgb(136, 131, 131);
 }
 
